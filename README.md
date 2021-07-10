@@ -1,5 +1,5 @@
 # wuhan-house-knowledge
-2021 年 07 月在武汉买房经历总结出来的买房购房做的一些功课分享给大家，本着开源的精神，希望对大家也能有所帮助。启发来自这位同学2017年做的 [杭州购房分享](https://github.com/houshanren/hangzhou_house_knowledge)，本文也发布在Github[武汉购房知识汇总](https://github.com/yanxugong/wuhan-house-knowledge)，欢迎有兴趣的同学Star和发PR来共同维护。
+2021 年 07 月在武汉买房经历总结出来的买房购房做的一些功课分享给大家，本着开源的精神，希望对大家也能有所帮助。启发来自这位同学2017年做的 [杭州购房分享](https://github.com/houshanren/hangzhou_house_knowledge)，本文也发布在 Github [武汉购房知识汇总](https://github.com/yanxugong/wuhan-house-knowledge)，欢迎有兴趣的同学 Star 和发 PR 来共同维护。
 
 ```
 -- 图片来自网络，侵权删
